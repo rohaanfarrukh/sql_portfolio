@@ -1,0 +1,121 @@
+order_id,order_date,product,category,price,quantity,region
+ORD0001,2025-03-03,Running Shoes,Footwear,74.99,2,North
+ORD0002,2025-02-21,LED Desk Lamp,Home,37.18,2,South
+ORD0003,2025-06-02,Coffee Mug,Home,7.76,1,South
+ORD0004,2025-08-24,Running Shoes,Footwear,73.76,5,North
+ORD0005,2025-08-29,Baseball Cap,Apparel,15.45,1,West
+ORD0006,2025-03-02,Classic T-Shirt,Apparel,18.38,1,North
+ORD0007,2025-07-23,Running Shoes,Footwear,69.25,2,South
+ORD0008,2025-04-07,Coffee Mug,Home,7.25,1,North
+ORD0009,2025-01-16,Jeans,Apparel,49.26,1,South
+ORD0010,2025-06-01,Jeans,Apparel,55.78,4,West
+ORD0011,2025-05-08,Coffee Mug,Home,9.89,1,West
+ORD0012,2025-01-16,Baseball Cap,Apparel,22.38,1,East
+ORD0013,2025-05-31,Classic T-Shirt,Apparel,16.4,2,South
+ORD0014,2025-11-18,Water Bottle,Fitness,10.26,1,East
+ORD0015,2025-01-06,LED Desk Lamp,Home,37.55,1,South
+ORD0016,2025-05-27,Coffee Mug,Home,8.01,2,East
+ORD0017,2025-10-05,Running Shoes,Footwear,67.41,2,North
+ORD0018,2025-03-28,Water Bottle,Fitness,11.03,1,North
+ORD0019,2025-05-22,Yoga Mat,Fitness,24.53,1,East
+ORD0020,2025-03-03,Baseball Cap,Apparel,16.8,2,East
+ORD0021,2025-05-30,Classic T-Shirt,Apparel,18.57,1,West
+ORD0022,2025-07-19,Jeans,Apparel,45.36,2,North
+ORD0023,2025-07-09,Water Bottle,Fitness,14.62,5,North
+ORD0024,2025-04-19,Jeans,Apparel,47.63,3,East
+ORD0025,2025-06-29,Baseball Cap,Apparel,18.1,1,East
+ORD0026,2025-04-04,Baseball Cap,Apparel,19.52,1,South
+ORD0027,2025-04-09,Running Shoes,Footwear,80.03,1,North
+ORD0028,2025-11-25,Coffee Mug,Home,7.79,1,East
+ORD0029,2025-04-08,Running Shoes,Footwear,86.92,2,South
+ORD0030,2025-08-24,Running Shoes,Footwear,64.17,1,West
+ORD0031,2025-07-21,LED Desk Lamp,Home,36.53,1,West
+ORD0032,2025-02-08,Yoga Mat,Fitness,26.85,1,South
+ORD0033,2025-05-30,Yoga Mat,Fitness,26.3,5,East
+ORD0034,2025-04-14,Coffee Mug,Home,7.55,4,East
+ORD0035,2025-07-16,Running Shoes,Footwear,73.51,1,South
+ORD0036,2025-06-07,Jeans,Apparel,43.19,1,South
+ORD0037,2025-10-10,Wireless Headphones,Electronics,107.74,3,West
+ORD0038,2025-09-14,Water Bottle,Fitness,13.66,4,East
+ORD0039,2025-08-25,Jeans,Apparel,47.14,1,South
+ORD0040,2025-02-05,Yoga Mat,Fitness,19.68,2,North
+ORD0041,2025-06-08,Coffee Mug,Home,7.33,4,North
+ORD0042,2025-10-30,Yoga Mat,Fitness,23.66,2,West
+ORD0043,2025-06-29,LED Desk Lamp,Home,30.39,2,North
+ORD0044,2025-01-26,Coffee Mug,Home,7.92,2,East
+ORD0045,2025-10-21,Coffee Mug,Home,8.21,3,West
+ORD0046,2025-07-30,Water Bottle,Fitness,13.2,3,West
+ORD0047,2025-03-14,Wireless Headphones,Electronics,143.83,2,East
+ORD0048,2025-06-29,Wireless Headphones,Electronics,121.99,3,South
+ORD0049,2025-04-29,Jeans,Apparel,52.78,2,East
+ORD0050,2025-03-17,Baseball Cap,Apparel,21.83,1,West
+ORD0051,2025-04-28,Baseball Cap,Apparel,18.38,2,West
+ORD0052,2025-06-20,Yoga Mat,Fitness,21.38,3,South
+ORD0053,2025-08-19,Wireless Headphones,Electronics,122.04,2,West
+ORD0054,2025-11-10,Running Shoes,Footwear,71.83,5,North
+ORD0055,2025-07-05,Running Shoes,Footwear,73.45,5,South
+ORD0056,2025-11-20,Wireless Headphones,Electronics,121.38,3,West
+ORD0057,2025-08-20,Baseball Cap,Apparel,22.23,3,North
+ORD0058,2025-04-05,Water Bottle,Fitness,13.62,2,West
+ORD0059,2025-11-22,Baseball Cap,Apparel,15.57,1,West
+ORD0060,2025-04-03,Jeans,Apparel,45.65,4,East
+ORD0061,2025-08-15,Jeans,Apparel,54.6,1,North
+ORD0062,2025-11-25,Running Shoes,Footwear,79.68,1,East
+ORD0063,2025-01-27,Yoga Mat,Fitness,20.83,2,North
+ORD0064,2025-08-31,LED Desk Lamp,Home,31.93,1,West
+ORD0065,2025-11-24,Wireless Headphones,Electronics,119.65,2,West
+ORD0066,2025-01-31,Classic T-Shirt,Apparel,15.14,4,East
+ORD0067,2025-06-19,Jeans,Apparel,53.29,2,South
+ORD0068,2025-07-16,Jeans,Apparel,50.77,1,North
+ORD0069,2025-08-25,LED Desk Lamp,Home,35.87,1,South
+ORD0070,2025-08-03,Wireless Headphones,Electronics,140.86,2,East
+ORD0071,2025-05-13,Wireless Headphones,Electronics,110.37,1,North
+ORD0072,2025-02-15,Baseball Cap,Apparel,19.03,5,East
+ORD0073,2025-03-11,Bluetooth Speaker,Electronics,54.25,1,North
+ORD0074,2025-03-27,Running Shoes,Footwear,79.99,1,East
+ORD0075,2025-11-24,LED Desk Lamp,Home,35.65,1,South
+ORD0076,2025-03-22,Classic T-Shirt,Apparel,15.85,1,South
+ORD0077,2025-07-05,Baseball Cap,Apparel,15.97,2,North
+ORD0078,2025-04-23,Running Shoes,Footwear,90.23,4,West
+ORD0079,2025-10-09,Running Shoes,Footwear,74.23,5,South
+ORD0080,2025-09-17,Wireless Headphones,Electronics,143.1,3,West
+ORD0081,2025-11-08,Jeans,Apparel,49.81,1,South
+ORD0082,2025-07-21,LED Desk Lamp,Home,37.25,5,West
+ORD0083,2025-11-10,Coffee Mug,Home,7.26,3,South
+ORD0084,2025-02-23,LED Desk Lamp,Home,39.66,1,West
+ORD0085,2025-05-30,Yoga Mat,Fitness,23.53,3,West
+ORD0086,2025-08-26,Jeans,Apparel,56.15,2,West
+ORD0087,2025-03-01,Running Shoes,Footwear,70.87,2,South
+ORD0088,2025-10-10,Coffee Mug,Home,8.47,5,North
+ORD0089,2025-06-30,Yoga Mat,Fitness,24.49,1,North
+ORD0090,2025-03-30,Baseball Cap,Apparel,18.96,3,South
+ORD0091,2025-11-22,Baseball Cap,Apparel,17.06,3,South
+ORD0092,2025-07-30,Classic T-Shirt,Apparel,15.67,5,North
+ORD0093,2025-08-03,Classic T-Shirt,Apparel,17.52,3,South
+ORD0094,2025-03-07,Running Shoes,Footwear,83.82,1,North
+ORD0095,2025-07-10,Yoga Mat,Fitness,25.06,1,North
+ORD0096,2025-02-28,Jeans,Apparel,52.08,5,South
+ORD0097,2025-04-04,LED Desk Lamp,Home,39.24,2,West
+ORD0098,2025-01-06,Coffee Mug,Home,10.23,2,South
+ORD0099,2025-07-04,Baseball Cap,Apparel,21.98,1,West
+ORD0100,2025-10-12,Coffee Mug,Home,9.17,2,West
+ORD0101,2025-03-05,Water Bottle,Fitness,11.61,2,South
+ORD0102,2025-02-26,Running Shoes,Footwear,71.8,1,North
+ORD0103,2025-10-09,Water Bottle,Fitness,12.87,4,East
+ORD0104,2025-02-02,Water Bottle,Fitness,14.66,3,West
+ORD0105,2025-04-30,Bluetooth Speaker,Electronics,60.28,3,North
+ORD0106,2025-10-20,Running Shoes,Footwear,71.37,1,North
+ORD0107,2025-02-15,Water Bottle,Fitness,13.76,1,East
+ORD0108,2025-04-08,Running Shoes,Footwear,85.02,4,South
+ORD0109,2025-03-27,Coffee Mug,Home,9.98,1,South
+ORD0110,2025-06-20,Jeans,Apparel,49.26,2,West
+ORD0111,2025-03-06,Wireless Headphones,Electronics,126.07,2,West
+ORD0112,2025-09-22,Wireless Headphones,Electronics,105.41,3,East
+ORD0113,2025-01-10,Bluetooth Speaker,Electronics,66.33,4,South
+ORD0114,2025-07-12,Running Shoes,Footwear,81.12,5,West
+ORD0115,2025-02-21,Jeans,Apparel,38.9,1,North
+ORD0116,2025-07-16,Classic T-Shirt,Apparel,18.64,3,North
+ORD0117,2025-01-13,Running Shoes,Footwear,64.67,2,South
+ORD0118,2025-02-12,Wireless Headphones,Electronics,116.56,1,West
+ORD0119,2025-04-01,Bluetooth Speaker,Electronics,58.24,2,West
+ORD0120,2025-01-29,Coffee Mug,Home,10.51,4,West
